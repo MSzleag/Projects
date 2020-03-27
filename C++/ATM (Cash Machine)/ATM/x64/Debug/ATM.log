@@ -1,0 +1,8 @@
+﻿  Account.cpp
+  ATM.cpp
+C:\Programy\Projekt\ATM\ATM\ATM.cpp(41,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Programy\Projekt\ATM\ATM\ATM.cpp(47,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  main.cpp
+  Generowanie kodu...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1274,5): warning MSB8012: TargetPath(C:\Programy\Projekt\ATM\x64\Debug\.exe) does not match the Linker's OutputFile property value (C:\Programy\Projekt\ATM\x64\Debug\ATM.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  ATM.vcxproj -> C:\Programy\Projekt\ATM\x64\Debug\.exe
